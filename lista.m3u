@@ -1,0 +1,51 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="DEP | DIRECTV SPORTS HD ARG OP 1" tvg-logo="https://jplayerpro.com/img/dspremium.png" group-title="Dsports",DSPORTS  1 ARG
+http://livetv-plus.com:8880/live/12Mapache12/BRCUG/310509.ts
+#EXTINF:-1 tvg-name="DSPORTS  2" tvg-logo="https://jplayerpro.com/img/dspremium.png" group-title="Dsports" xm-ott="{ID}",DSPORTS  2
+http://livetv-plus.com:8880/live/12Mapache12/BRCUG/456658.ts
+#EXTINF:-1 tvg-name="DEP | DIRECTV SPORTS 2 SD" tvg-logo="https://jplayerpro.com/img/dspremium.png" group-title="Dsports" xm-ott="{ID}",DSPORTS 2
+http://livetv-plus.com:8880/live/12Mapache12/BRCUG/158513.ts
+#EXTINF:-1 tvg-name="HD: D-SP⚽RTS 1 COL" tvg-logo="https://jplayerpro.com/img/dspremium.png" group-title="Dsports",DSPORTS 1 COL
+http://1tvstreamlatam.site:2095/live/rwixpandmw/xjycwpwipu/136358.ts
+#EXTINF:-1 tvg-name="HD: D-SP⚽RTS + COL" tvg-logo="https://jplayerpro.com/img/dspremium.png" group-title="Dsports",HD: D-SPORTS + COL
+http://1tvstreamlatam.site:2095/live/rwixpandmw/xjycwpwipu/136360.ts
+#EXTINF:-1 tvg-name="Deportes LAT: TUDN MEXICO" tvg-logo="https://resellermv.com/img/tudnlat.png" group-title="TUDN",TUDN -MX
+http://1tvstreamlatam.site:2095/live/rwixpandmw/xjycwpwipu/138871.ts
+#EXTINF:-1 tvg-name="DEPORTES| TUDN  HD MEXICO" tvg-logo="https://resellermv.com/img/tudnlat.png" group-title="TUDN",TUDN -MX
+http://1tvstreamlatam.site:2095/live/rwixpandmw/xjycwpwipu/138883.ts
+#EXTINF:-1 tvg-name="SP: MX: TUDN (Mexico)" tvg-logo="https://resellermv.com/img/tudnlat.png" group-title="TUDN",TUDN
+http://1tvstreamlatam.site:2095/live/rwixpandmw/xjycwpwipu/138946.ts
+#EXTINF:-1  tvg-name="TUDN" tvg-logo="https://resellermv.com/img/tudnlat.png" group-title="TUDN",TUDN
+http://1tvstreamlatam.site:2095/live/rwixpandmw/xjycwpwipu/138948.ts
+#EXTINF:-1 tvg-name="ESPN Deportes FHD" tvg-logo="https://i.ibb.co/z2b84DX/espn-deportes.png" group-title="ESPN",ESPN Deportes
+http://1tvstreamlatam.site:2095/live/rwixpandmw/xjycwpwipu/298354.ts
+#EXTINF:-1 tvg-name="ESPN Deportes HD" tvg-logo="https://i.ibb.co/z2b84DX/espn-deportes.png" group-title="ESPN",ESPN Deportes
+http://1tvstreamlatam.site:2095/live/rwixpandmw/xjycwpwipu/298355.ts
+#EXTINF:-1  tvg-name="Tigo Sports (FOX): El Salvador" tvg-logo="https://jplayerpro.com/img/tigo.png" group-title="TIGO SPORTS",Tigo Sports (FOX): El Salvador
+http://1tvstreamlatam.site:2095/live/rwixpandmw/xjycwpwipu/294371.ts
+#EXTINF:-1  tvg-name="Tigo Sports (FOX): Honduras" tvg-logo="https://jplayerpro.com/img/tigo.png" group-title="TIGO SPORTS",Tigo Sports (FOX): Honduras
+http://1tvstreamlatam.site:2095/live/rwixpandmw/xjycwpwipu/294372.ts
+#EXTINF:-1  tvg-name="Tigo Sports (FOX): Panama" tvg-logo="https://jplayerpro.com/img/tigo.png" group-title="TIGO SPORTS",Tigo Sports (FOX): Panama
+http://1tvstreamlatam.site:2095/live/rwixpandmw/xjycwpwipu/294375.ts
+#EXTINF:-1  tvg-name="DHD |  FOX SPORTS 2 MX" tvg-logo="https://go4.pw/Mexico/fox2.png" group-title="FOX SPORTS",DHD |  FOX SPORTS 2 MX
+http://liontv.es:8080/Dilcia.Torres/1964/95
+#EXTINF:-1  tvg-name="DHD |  FOX SPORTS 3 MX" tvg-logo="https://go4.pw/Mexico/fox3.png" group-title="FOX SPORTS",DHD |  FOX SPORTS 3 MX
+http://liontv.es:8080/Dilcia.Torres/1964/99
+#EXTINF:-1 tvg-name="HD: FOX SPORTS 1 MX" tvg-logo="https://resellermv.com/img/foxsp2pre.png" group-title="FOX SPORTS",HD: FOX SPORTS 1 MX
+http://1tvstreamlatam.site:2095/live/rwixpandmw/xjycwpwipu/136379.ts
+#EXTINF:-1 tvg-id="ESPN2.ar" tvg-name="ESPN 1 FHD | ARG" tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1708122217.jpg" group-title="ESPN",ESPN 1
+http://sapphirevip.xyz/live/25andreszapata/gkhCEeC6Yz/591975.ts
+#EXTINF:-1 tvg-name="ESPN 2" tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1708122217.jpg" group-title="ESPN" xm-ott="{ID}",ESPN 2
+http://livetv-plus.com:8880/live/12Mapache12/BRCUG/588138.ts
+#EXTINF:-1 tvg-name="ESPN 3" tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1708122217.jpg" group-title="ESPN" xm-ott="{ID}",ESPN 3
+http://livetv-plus.com:8880/live/12Mapache12/BRCUG/588139.ts
+#EXTINF:-1 tvg-name="ESPN 4" tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1708122217.jpg" group-title="ESPN",ESPN 4
+http://1tvstreamlatam.site:2095/live/rwixpandmw/xjycwpwipu/298371.ts
+#EXTINF:-1 tvg-name="ESPN 5" tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1708122217.jpg" group-title="ESPN",ESPN 5
+http://liontv.es:8080/Dilcia.Torres/1964/61883
+#EXTINF:-1 tvg-name="ESPN 6" tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1708122217.jpg" group-title="ESPN",ESPN 6
+http://liontv.es:8080/Dilcia.Torres/1964/98
+#EXTINF:-1 tvg-name="ESPN 7" tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1708122217.jpg" group-title="ESPN",ESPN 7
+http://liontv.es:8080/Dilcia.Torres/1964/94
+#EXTINF:-1  tvg-name="USA| FOX SOCCER PLUS" tvg-logo="http://miarea.vip:8080/images/2545523df82da256a12d336f68a8adc6.png" group-title="FOX SPORTS",USA| FOX SOCCER PLUS
+http://liontv.es:8080/Dilcia.Torres/1964/1377370
